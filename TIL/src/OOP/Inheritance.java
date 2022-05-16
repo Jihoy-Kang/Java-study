@@ -26,7 +26,6 @@ class Teacher {
     void eating(){
         System.out.println("식사를 해요");
     }
-
     void sleeping(){
         System.out.println("잠을 자요");
     }
@@ -35,16 +34,13 @@ class Teacher {
 class MathTeacher extends Teacher {
     String school;
     String major;
-
     void teachingMath(){
         System.out.println("수학을 가르쳐요");
     }
 }
-
 class EnglishTeacher extends Teacher { // Teacher 클래스로부터 필드와 메서드 상속 받기 위해서 extends 활용
     String school;
     String major;
-
     void teachingEnglish(){
         System.out.println("영어를 가르쳐요");
     }
