@@ -11,6 +11,7 @@ public class Groupword {
         for(int k =0; k < n ; k++){
             boolean check = true;
             String word = sc.next();
+
             if(word.length() <= 2){
                 cnt++;
             }else{
@@ -23,6 +24,9 @@ public class Groupword {
                                 break;
                             }
                         }
+                    }
+                    if(check == false){
+                        break;
                     }
                 }
                 if(check==true) cnt++;
