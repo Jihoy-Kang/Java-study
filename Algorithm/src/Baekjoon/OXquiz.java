@@ -1,27 +1,23 @@
 package Baekjoon;
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class OXquiz {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int testNum = sc.nextInt();
+    Object[] arr = new Object[]{1,2,3,4,5};
+    Test test = new Test();
+        System.out.println(test.stringify(arr));
+    }
 
 
+}
 
-        for(int i = 1; i <= testNum;i++){
-            String str = sc.next();
-            int score = 0;
-            int result = 0;
-            for(int j = 0; j < str.length();j++){
-                if(str.charAt(j) == 'O'){
-                    score += 1;
-                    result += score;
-                }else{
-                    score = 0;
-                }
-            }
-            System.out.println(result);
-        }
-
+class Test{
+    public String stringify(Object data) {
+        String result ="";
+        Object head = ((Object[])data)[0];
+        result = "\"" + head + "\"";
+        stringify(Arrays.copyOfRange(((Object[]) data), 1, ((Object[]) data).length));
+        return "[" + result + "]";
     }
 }
