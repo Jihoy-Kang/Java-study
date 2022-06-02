@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d1e652de-4a54-4557-81f1-37fefe562240" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm/src/Seb/GreedyAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/src/Seb/GreedyAlgorithm.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,48 +37,9 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/luxur/OneDrive/바탕 화면/JAVA Study/TIL&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BSTAlgorithm">
-    <configuration name="AdjacencyListGetDirection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Seb.AdjacencyListGetDirection" />
-      <module name="JAVA Study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Seb.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.convertListToObject">
     <configuration name="BSTAlgorithm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Seb.BSTAlgorithm" />
-      <module name="JAVA Study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Seb.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DFSandBFS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Seb.DFSandBFS" />
-      <module name="JAVA Study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Seb.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DFSbarcode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Seb.DFSbarcode" />
       <module name="JAVA Study" />
       <extension name="coverage">
         <pattern>
@@ -104,13 +64,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PaintChessBoard" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.PaintChessBoard" />
+      <module name="JAVA Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Baekjoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sorting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.Sorting" />
+      <module name="JAVA Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Baekjoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="convertListToObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Seb.convertListToObject" />
+      <module name="JAVA Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Seb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.convertListToObject" />
+        <item itemvalue="Application.PaintChessBoard" />
+        <item itemvalue="Application.Sorting" />
         <item itemvalue="Application.BSTAlgorithm" />
         <item itemvalue="Application.GreedyAlgorithm" />
-        <item itemvalue="Application.DFSbarcode" />
-        <item itemvalue="Application.DFSandBFS" />
-        <item itemvalue="Application.AdjacencyListGetDirection" />
       </list>
     </recent_temporary>
   </component>
