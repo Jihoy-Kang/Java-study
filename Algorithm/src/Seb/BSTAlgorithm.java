@@ -5,11 +5,12 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 public class BSTAlgorithm {
-    public static void main(String[] args) {
+    public static void main(String[] args){
         int[] stuff = new int[]{
-                42, 25, 60, 73, 103, 167, 60
+                2, 5,  97, 95, 100
+
         };
-        int limit = 187;
+        int limit = 100;
         int box = 0;
         Arrays.sort(stuff);
         Gtree t = new Gtree();
@@ -41,26 +42,38 @@ public class BSTAlgorithm {
 
         queue.add(t.findMax(t.root));
         t.delete(t.findMax(t.root));
+
         while(!queue.isEmpty()){
+            t.inorder(t.root);
+
             box++;
             System.out.println("박스개수 : " + box);
             int max = queue.poll(); // 큐에 있는 최대값 변수에 할당
-            System.out.println("max : "+max);
-            int min = t.findMin(t.root); // 트리 내 최소값 변수에 할당
-            System.out.println("min : "+min);
+            int min = 0;
+            int near = 0;
             int find = limit - max;
-            System.out.println("find : "+find);
-            int near = t.searchGtree(t.root,find);
-            System.out.println("near : "+near);
-            if(find > min){
-                t.delete(near);
-            }
-            t.inorder(t.root);
 
             if(t.root != null){
+                min = t.findMin(t.root); // 트리 내 최소값 변수에 할당
+                near = t.searchGtree(t.root, find);
+            }
+            System.out.println("max : " + max);
+            System.out.println("find : " + find);
+            System.out.println("min : " + min);
+            System.out.println("near : " + near);
+
+            if (find > near && near != 0) {
+                t.delete(near);
+                queue.add(max + near);
+                box--;
+            }else if( find == near){
+                t.delete(near);
+            }else if(t.root != null){
                 queue.add(t.findMax(t.root));
                 t.delete(t.findMax(t.root));
             }
+
+
 
             System.out.println("--------------------------------------------------------------------");
         }
@@ -113,7 +126,7 @@ class Gtree{
                 return n.data;
             }else{
                 System.out.println("Data is Smaller than " + n.data);
-                searchGtree(n.left, find);
+                return searchGtree(n.left, find);
             }
         }else if(find > n.data){
             if(n.right == null || find < n.right.data){
@@ -121,7 +134,7 @@ class Gtree{
                 return n.data;
             }else{
                 System.out.println("Data is Bigger than " + n.data);
-                searchGtree(n.right, find);
+                return searchGtree(n.right, find);
             }
         }
         return n.data;
@@ -153,6 +166,7 @@ class Gtree{
             min = root.left.data;
             root = root.left;
         }
+
         return min;
     }
     int findMax(Node root){
@@ -161,6 +175,7 @@ class Gtree{
             max = root.right.data;
             root = root.right;
         }
+
         return max;
     }
     public void inorder(){
