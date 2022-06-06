@@ -4,12 +4,12 @@ import java.util.*;
 import java.util.Arrays;
 
 public class RockScissorsPaper {
-    public static void main(String[] args) {
+   /* public static void main(String[] args) {
         Solution s = new Solution();
         s.permutation(3,);
-    }
+    }*/
 }
-class Solution {
+/*class Solution {
     public ArrayList<String[]> rockPaperScissors(int rounds) {
         //결과를 담을 ArrayList를 선언합니다.
         ArrayList<String[]> outcomes = new ArrayList<>();
@@ -49,6 +49,6 @@ class Solution {
         // outcomes를 반환합니다.
         return outcomes;
     }
-}
+}*/
 //첫번째 rrr 두번째 rrp 세번째 rrs
 //반복문 안에서 재귀가 돈다.
