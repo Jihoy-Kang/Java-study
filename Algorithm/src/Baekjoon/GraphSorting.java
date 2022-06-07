@@ -18,7 +18,9 @@ public class GraphSorting {
             arr[i][0] = x;
             arr[i][1] = y;
             i++;
+
         }
+
         Arrays.sort(arr, new Comparator<int[]>() {
             @Override
             public int compare(int[] o1, int[] o2) {
