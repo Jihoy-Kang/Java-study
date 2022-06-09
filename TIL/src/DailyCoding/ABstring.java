@@ -1,6 +1,8 @@
+package DailyCoding;
+
 import java.util.Arrays;
 
-public class DailyCoding {
+public class ABstring {
     public static void main(String[] args) {
         String str = "lane Borrowed";
         //A로 시작해서 - B로 끝나는 길이 5의 문자열
