@@ -37,7 +37,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/luxur/OneDrive/바탕 화면/JAVA Study/TIL&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MovieDirector">
+  <component name="RunManager" selected="Application.StackSequence">
     <configuration name="GCD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Seb.GCD" />
       <module name="JAVA Study" />
@@ -90,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RockScissorsPaper" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Seb.RockScissorsPaper" />
+    <configuration name="StackSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.StackSequence" />
       <module name="JAVA Study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Seb.*" />
+          <option name="PATTERN" value="Baekjoon.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StackSequence" />
         <item itemvalue="Application.MovieDirector" />
         <item itemvalue="Application.GraphSorting" />
         <item itemvalue="Application.GCD" />
         <item itemvalue="Application.NumOfPrime" />
-        <item itemvalue="Application.RockScissorsPaper" />
       </list>
     </recent_temporary>
   </component>
