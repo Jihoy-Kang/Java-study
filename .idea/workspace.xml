@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d1e652de-4a54-4557-81f1-37fefe562240" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm/src/Baekjoon/StackSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm/src/Baekjoon/StackSequence.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +38,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/luxur/OneDrive/바탕 화면/JAVA Study/TIL&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.StackSequence">
+  <component name="RunManager" selected="Application.StringSet">
     <configuration name="GCD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Seb.GCD" />
       <module name="JAVA Study" />
@@ -77,19 +78,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumOfPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Seb.NumOfPrime" />
-      <module name="JAVA Study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Seb.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="StackSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon.StackSequence" />
       <module name="JAVA Study" />
@@ -103,13 +91,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.StringSet" />
+      <module name="JAVA Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Baekjoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringSet" />
         <item itemvalue="Application.StackSequence" />
         <item itemvalue="Application.MovieDirector" />
         <item itemvalue="Application.GraphSorting" />
         <item itemvalue="Application.GCD" />
-        <item itemvalue="Application.NumOfPrime" />
       </list>
     </recent_temporary>
   </component>
