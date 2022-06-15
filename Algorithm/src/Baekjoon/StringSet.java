@@ -9,7 +9,7 @@ public class StringSet {
         StringTokenizer st = new StringTokenizer(br.readLine());
 
         HashSet<String> setN = new HashSet<>();
-        HashSet<String> setM = new HashSet<>();
+        //HashSet<String> setM = new HashSet<>();
 
         int N = Integer.parseInt(st.nextToken());
         int M = Integer.parseInt(st.nextToken());
@@ -17,9 +17,12 @@ public class StringSet {
 
 
         for(int i = 0; i < N ;i++) setN.add(br.readLine());
+
+
+
         /*for(int j = 0; j < M ;j++) setM.add(br.readLine());
         setN.retainAll(setM); // 교집합
-        System.out.println(setN.size());*/ // 이게 더 빠를거 같은데.......
+        System.out.println(setN.size());*//* // 이게 더 빠를거 같은데.......*/
 
         for(int j = 0; j < M ;j++) {
             if(setN.contains(br.readLine())){
@@ -32,7 +35,8 @@ public class StringSet {
 }
 
 
-   /* HashSet<Integer> ss = new HashSet();	// 1 2 3 4
+   /*
+    HashSet<Integer> ss = new HashSet();	// 1 2 3 4
     HashSet<Integer> ss2 = new HashSet();	// 3 4 5 6
     HashSet<Integer> ss3 = new HashSet();	// 1 2
 

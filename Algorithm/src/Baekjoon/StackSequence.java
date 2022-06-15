@@ -39,6 +39,7 @@ public class StackSequence {
                 print.add("NO");
                 break;
             }
+
             if(arr[index] == stack.peek()){
                 //result.add(stack.pop());
                 stack.pop(); // result 활성화시키면 이거 비활성화해야함
@@ -51,6 +52,7 @@ public class StackSequence {
                 num++;
             }
         }
+
         if(print.contains("NO")){
             System.out.println("NO");
         }else{
