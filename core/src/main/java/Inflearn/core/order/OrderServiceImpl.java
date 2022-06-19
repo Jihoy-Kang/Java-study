@@ -6,7 +6,10 @@ import Inflearn.core.discount.RateDiscountPolicy;
 import Inflearn.core.member.Member;
 import Inflearn.core.member.MemberRepository;
 import Inflearn.core.member.MemoryMemberRepository;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
 
+@Component
 public class OrderServiceImpl implements OrderService{
 
 
@@ -18,6 +21,7 @@ public class OrderServiceImpl implements OrderService{
     private final MemberRepository memberRepository;
     private DiscountPolicy discountPolicy; // 추상클래스에 만 의존 DIP 준수
 
+    @Autowired
     public OrderServiceImpl(MemberRepository memberRepository, DiscountPolicy discountPolicy) {
         this.memberRepository = memberRepository;
         this.discountPolicy = discountPolicy;
