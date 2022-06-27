@@ -7,7 +7,7 @@ import java.util.*;
 
 public class NumCard2 {
     public static void main(String[] args) throws IOException {
-        Scanner sc = new Scanner(System.in);
+        /*Scanner sc = new Scanner(System.in);
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
         ArrayList<String> cardArr = new ArrayList<>();
@@ -50,6 +50,6 @@ public class NumCard2 {
 
         System.out.println(cardArr);
         System.out.println(numArr);
-        System.out.println(result);
+        System.out.println(result);*/
     }
 }
