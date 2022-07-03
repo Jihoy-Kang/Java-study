@@ -6,67 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d1e652de-4a54-4557-81f1-37fefe562240" name="Changes" comment="Changes">
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdnc - Section2/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdnc - Section2/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdnc - Section2/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdnc - Section2/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdnc - Section2/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdnc - Section2/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdnc - Section2/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdnc - Section2/src/main/java/com/jdnc/jdnc/AppConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdnc - Section2/src/main/java/com/jdnc/jdnc/JdncApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdnc - Section2/src/main/java/com/jdnc/jdnc/discount/CurrentDiscountInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdnc - Section2/src/main/java/com/jdnc/jdnc/discount/DiscountInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdnc - Section2/src/main/java/com/jdnc/jdnc/discount/RateDiscountInfo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdnc - Section2/src/main/java/com/jdnc/jdnc/order/Order.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdnc - Section2/src/main/java/com/jdnc/jdnc/order/OrderApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdnc - Section2/src/main/java/com/jdnc/jdnc/order/OrderService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdnc - Section2/src/main/java/com/jdnc/jdnc/order/OrderServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdnc - Section2/src/main/java/com/jdnc/jdnc/user/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdnc - Section2/src/main/java/com/jdnc/jdnc/user/UserApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdnc - Section2/src/main/java/com/jdnc/jdnc/user/UserGrade.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdnc - Section2/src/main/java/com/jdnc/jdnc/user/UserRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdnc - Section2/src/main/java/com/jdnc/jdnc/user/UserRepositoryImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdnc - Section2/src/main/java/com/jdnc/jdnc/user/UserService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdnc - Section2/src/main/java/com/jdnc/jdnc/user/UserServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdnc - Section2/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdnc - Section2/src/test/java/com/jdnc/jdnc/JdncApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdnc - Section3/Section3-week1- practice 1/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdnc - Section3/Section3-week1- practice 1/.idea/Section3-week1- practice 1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdnc - Section3/Section3-week1- practice 1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdnc - Section3/Section3-week1- practice 1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdnc - Section3/Section3-week1- practice 1/be-homework-controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdnc - Section3/Section3-week1- practice 2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdnc - Section3/Section3-week1- practice 2/.idea/Section3-week1- practice 2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdnc - Section3/Section3-week1- practice 2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdnc - Section3/Section3-week1- practice 2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdnc - Section3/Section3-week1- practice 2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdnc - Section3/Section3-week1- practice 2/be-homework-dto" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdnc - Section3/Section3-week1- practice 3/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdnc - Section3/Section3-week1- practice 3/.idea/Section3-week1- practice 3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdnc - Section3/Section3-week1- practice 3/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdnc - Section3/Section3-week1- practice 3/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdnc - Section3/Section3-week1- practice 3/be-template-service-layer" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdnc - Section3/Section3-week1- practice 4/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdnc - Section3/Section3-week1- practice 4/be-homework-mapper" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdnc - Section3/Section3-week1- practice 4/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdnc - Section3/Section3-week1- practice 4/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdnc - Section3/Section3-week1- practice 4/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdnc - Section3/Section3-week1- practice 4/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdnc - Section3/Section3-week1- practice 4/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdnc - Section3/Section3-week1- practice 4/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdnc - Section3/Section3-week1- practice 4/src/main/java/jdnc/section3week1/Section3Week1Application.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdnc - Section3/Section3-week1- practice 4/src/main/java/jdnc/section3week1/coffee/CoffeeController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdnc - Section3/Section3-week1- practice 4/src/main/java/jdnc/section3week1/member/MemberController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdnc - Section3/Section3-week1- practice 4/src/main/java/jdnc/section3week1/member/MemberPatchDto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdnc - Section3/Section3-week1- practice 4/src/main/java/jdnc/section3week1/member/MemberPostDto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdnc - Section3/Section3-week1- practice 4/src/main/java/jdnc/section3week1/order/OrderController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdnc - Section3/Section3-week1- practice 4/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jdnc - Section3/Section3-week1- practice 4/src/test/java/jdnc/section3week1/Section3Week1ApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/section3/be-reference-exception-handle/src/main/java/com/codestates/advice/GlobalExceptionAdviceV1.java" beforeDir="false" afterPath="$PROJECT_DIR$/section3/be-reference-exception-handle/src/main/java/com/codestates/advice/GlobalExceptionAdviceV1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/section3/be-reference-exception-handle/src/main/java/com/codestates/member/controller/controller_v6/MemberControllerV6.java" beforeDir="false" afterPath="$PROJECT_DIR$/section3/be-reference-exception-handle/src/main/java/com/codestates/member/controller/controller_v6/MemberControllerV6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/section3/be-reference-exception-handle/src/main/java/com/codestates/response/v2/ErrorResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/section3/be-reference-exception-handle/src/main/java/com/codestates/response/v2/ErrorResponse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
