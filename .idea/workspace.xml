@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1e652de-4a54-4557-81f1-37fefe562240" name="Changes" comment="Changes" />
+    <list default="true" id="d1e652de-4a54-4557-81f1-37fefe562240" name="Changes" comment="Changes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +38,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/luxur/OneDrive/바탕 화면/JAVA Study/jdnc - Section3/Section3-week1- practice 1&quot;
   }
 }</component>
-  <component name="RunManager" selected="애플리케이션.Backpacker">
+  <component name="RunManager" selected="애플리케이션.SortInside">
     <configuration name="Backpacker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon.Backpacker" />
       <module name="JAVA Study" />
@@ -76,8 +78,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.StackSequence" />
+    <configuration name="SortInside" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.SortInside" />
       <module name="JAVA Study" />
       <extension name="coverage">
         <pattern>
@@ -104,6 +106,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.SortInside" />
         <item itemvalue="애플리케이션.Backpacker" />
         <item itemvalue="애플리케이션.InsertOperators" />
         <item itemvalue="애플리케이션.NumCard2" />
