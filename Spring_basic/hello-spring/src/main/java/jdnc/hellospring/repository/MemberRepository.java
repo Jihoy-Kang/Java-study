@@ -1,6 +1,8 @@
 package jdnc.hellospring.repository;
 
-import java.lang.reflect.Member;
+
+import jdnc.hellospring.domain.Member;
+
 import java.util.List;
 import java.util.Optional;
 

@@ -7,7 +7,7 @@ import java.util.*;
 
 public class MemoryMemberRepository implements MemberRepository {
 
-    private static Map<long, Member> store = new HashMap<>();
+    private static Map<Long, Member> store = new HashMap<>();
     private static long sequence = 0L;
 
     @Override
@@ -19,6 +19,7 @@ public class MemoryMemberRepository implements MemberRepository {
 
     @Override
     public Optional<Member> findById(long id) {
+
         return Optional.ofNullable(store.get(id));
     }
 
@@ -31,6 +32,11 @@ public class MemoryMemberRepository implements MemberRepository {
 
     @Override
     public List<Member> findAll() {
+
         return new ArrayList<>(store.values());
+    }
+
+    public void clearStore(){
+        store.clear();
     }
 }
