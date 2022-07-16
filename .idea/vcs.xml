@@ -3,8 +3,20 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Section3/be-homework-exception" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Section3/be-homework-jdbc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Section3/be-homework-jpa" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Section3/be-homework-mapper" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Section3/be-homework-testing-junit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Section3/be-homework-testing-mock" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Section3/be-homework-testing-slice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Section3/be-homework-tx" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Section3/be-reference-exception-handle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Section3/be-solution-testing-mock" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Section3/be-template-api-documentation" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Section3/be-template-jdbc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Section3/be-template-jpa" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Section3/be-template-testing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Section3/be-template-tx" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/jdnc - Section3/Section3-week1- practice 1/be-homework-controller" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/jdnc - Section3/Section3-week1- practice 2/be-homework-dto" vcs="Git" />
   </component>

@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1e652de-4a54-4557-81f1-37fefe562240" name="Changes" comment="Changes" />
+    <list default="true" id="d1e652de-4a54-4557-81f1-37fefe562240" name="Changes" comment="Changes">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section3/be-template-tx/src/main/java/com/codestates/member/service/MemberService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Section3/be-template-tx/src/main/java/com/codestates/member/service/MemberService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section3/be-template-tx/src/main/java/com/codestates/order/service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Section3/be-template-tx/src/main/java/com/codestates/order/service/OrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Section3/be-template-tx/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Section3/be-template-tx/src/main/resources/application.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,7 +30,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="292h7AHak7Zny59qObOjQ4IOhDX" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,7 +44,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/luxur/OneDrive/바탕 화면/JAVA Study/jdnc - Section3/Section3-week1- practice 1&quot;
   }
 }</component>
-  <component name="RunManager" selected="애플리케이션.MaxHeap">
+  <component name="RunManager" selected="애플리케이션.SymmetricDifferenceOfSets">
     <configuration name="Backpacker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon.Backpacker" />
       <module name="JAVA Study" />
@@ -76,19 +84,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumCard2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Baekjoon.NumCard2" />
-      <module name="JAVA Study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Baekjoon.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SortInside" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Baekjoon.SortInside" />
       <module name="JAVA Study" />
@@ -102,13 +97,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SymmetricDifferenceOfSets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Baekjoon.SymmetricDifferenceOfSets" />
+      <module name="JAVA Study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Baekjoon.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="애플리케이션.SymmetricDifferenceOfSets" />
         <item itemvalue="애플리케이션.MaxHeap" />
         <item itemvalue="애플리케이션.SortInside" />
         <item itemvalue="애플리케이션.Backpacker" />
         <item itemvalue="애플리케이션.InsertOperators" />
-        <item itemvalue="애플리케이션.NumCard2" />
       </list>
     </recent_temporary>
   </component>
