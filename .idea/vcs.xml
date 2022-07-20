@@ -2,6 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Section3/be-homework-api-documentation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Section3/be-homework-build" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Section3/be-homework-exception" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Section3/be-homework-jdbc" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Section3/be-homework-jpa" vcs="Git" />
@@ -13,6 +15,7 @@
     <mapping directory="$PROJECT_DIR$/Section3/be-reference-exception-handle" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Section3/be-solution-testing-mock" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Section3/be-template-api-documentation" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Section3/be-template-build" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Section3/be-template-jdbc" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Section3/be-template-jpa" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Section3/be-template-testing" vcs="Git" />
