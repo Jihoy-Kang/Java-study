@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d1e652de-4a54-4557-81f1-37fefe562240" name="Changes" comment="Changes">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Section3/be-homework-api-documentation/src/test/java/com/codestates/homework/MemberControllerDocumentationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Section3/be-homework-api-documentation/src/test/java/com/codestates/homework/MemberControllerDocumentationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section3/be-homework-build/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/Section3/be-homework-build/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section3/be-homework-build/src/main/resources/application-server.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Section3/be-homework-build/src/main/resources/application-server.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Section3/be-homework-build/src/main/resources/static/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Section3/be-homework-build/src/main/resources/static/docs/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Section3/be-template-build/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Section3/be-template-build/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Section3/be-template-build/src/main/resources/static/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Section3/be-template-build/src/main/resources/static/docs/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Section3/be-template-tx/src/main/java/com/codestates/member/service/MemberService.java" beforeDir="false" afterPath="$PROJECT_DIR$/Section3/be-template-tx/src/main/java/com/codestates/member/service/MemberService.java" afterDir="false" />

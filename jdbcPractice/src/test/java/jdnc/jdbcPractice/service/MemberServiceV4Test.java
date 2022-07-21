@@ -1,9 +1,7 @@
 package jdnc.jdbcPractice.service;
 
 import jdnc.jdbcPractice.domain.Member;
-import jdnc.jdbcPractice.repository.MemberRepository;
-import jdnc.jdbcPractice.repository.MemberRepositoryV3;
-import jdnc.jdbcPractice.repository.MemberRepositoryV4_1;
+import jdnc.jdbcPractice.repository.*;
 import lombok.extern.slf4j.Slf4j;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.AfterEach;
@@ -45,7 +43,7 @@ class MemberServiceV4Test {
 
         @Bean
         MemberRepository memberRepository(){
-            return new MemberRepositoryV4_1(dataSource);
+            return new MemberRepositoryV5(dataSource);
         }
 
         @Bean
